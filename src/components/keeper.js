@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import Note from './Note'
-import notes from './Notes'
+
 import "../css/keeper.css"
 import img from '../images/Capture.PNG'
 import da from '../images/down-arrow.png'
